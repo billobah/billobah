@@ -28,8 +28,6 @@ SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Sn
 
 ---
 
-# 🇫🇷 En français
-
 Business Analyst et spécialiste des données. Je conçois des entrepôts de données SQL Server, je développe des rapports Power BI et j'utilise des outils modernes d'ingénierie des données (dbt, Airflow, entrepôt de données cloud - GCS et BigQuery).
 
 ## Mes domaines
