@@ -1,13 +1,13 @@
 # Boubacar Billo Bah
 
-Business Analyst and data professional. I design SQL Server data warehouses, build Power BI reporting, and work with modern data engineering tools (dbt, Airflow, cloud data warehouse - GCS and BigQuery).
+Business Analyst and data professional. I design SQL Server data warehouses, build Power BI reporting, and work with modern data engineering tools (dbt, Airflow, cloud data warehouse).
 
 ## What I work on
 
 - **Data warehousing**: medallion architecture (bronze / silver / gold), dimensional modeling (star schema)
 - **Reporting**: Power BI for project portfolio management and sales performance analysis
 - **Data pipelines**: dbt (incremental models, data tests), Airflow orchestration and Python, with automated tests and CI
-- **Cloud data platforms**: Snowflake, BigQuery, MotherDuck
+- **Cloud data platforms**: Snowflake, MotherDuck
 
 ## Featured projects
 
@@ -19,7 +19,7 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 
 ## Tools
 
-SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · BigQuery · MotherDuck · Docker · GitHub Actions
+SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · Docker · GitHub Actions
 
 ## Contact
 
@@ -27,14 +27,14 @@ SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Sn
 
 ---
 
-Business Analyst et spécialiste des données. Je conçois des entrepôts de données SQL Server, je développe des rapports Power BI et j'utilise des outils modernes d'ingénierie des données (dbt, Airflow, entrepôt de données cloud - GCS et BigQuery).
+Business Analyst et spécialiste des données. Je conçois des entrepôts de données SQL Server, je développe des rapports Power BI et j'utilise des outils modernes d'ingénierie des données (dbt, Airflow, entrepôt de données cloud).
 
 ## Mes domaines
 
 - **Entrepôts de données** : architecture en médaillon (bronze / silver / gold), modélisation dimensionnelle (schéma en étoile)
 - **Rapports** : Power BI pour la gestion de portefeuille de projet et l'analyse de performance de ventes
 - **Pipelines de données** : dbt (modèles incrémentaux, tests de données), orchestration avec Airflow et Python, avec tests automatisés et intégration continue
-- **Plateformes de données dans le cloud** : Snowflake, BigQuery, MotherDuck
+- **Plateformes de données dans le cloud** : Snowflake, MotherDuck
 
 ## Projets à la une
 
@@ -46,7 +46,7 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 
 ## Outils
 
-SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · BigQuery · MotherDuck · Docker · GitHub Actions
+SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · Docker · GitHub Actions
 
 ## Contact
 
