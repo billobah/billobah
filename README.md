@@ -13,7 +13,6 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 
 | Project | What it does | Stack |
 |---|---|---|
-| [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 dbt models with incremental fact tables and 33 data tests | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | Daily Airflow DAG that refreshes the dbt models | Airflow, Docker, dbt |
 | [northwave-dwh](https://github.com/billobah/northwave-dwh) | Star-schema data warehouse for a fictional retailer (work in progress) | MotherDuck, DuckDB, SQL |
 
@@ -40,7 +39,6 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 
 | Projet | Ce qu'il fait | Outils |
 |---|---|---|
-| [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 modèles dbt avec tables de faits incrémentales et 33 tests de données | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | DAG Airflow quotidien qui met à jour les modèles dbt | Airflow, Docker, dbt |
 | [northwave-dwh](https://github.com/billobah/northwave-dwh) | Entrepôt de données en étoile pour un détaillant fictif (en cours) | MotherDuck, DuckDB, SQL |
 
