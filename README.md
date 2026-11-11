@@ -4,9 +4,11 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 
 ## What I work on
 
-- **Data warehousing**: medallion architecture (bronze / silver / gold), Kimball dimensional modeling
-- **Reporting**: Power BI for portfolio management, risk tracking, bid tracking and earned value
-- **Data pipelines**: dbt, Airflow and Python, with automated tests and CI
+- **Data warehousing**: medallion architecture (bronze / silver / gold), dimensional modeling (star schema)
+- **Reporting**: Power BI for project portfolio management and sales performance analysis
+- **Data pipelines**: dbt (incremental models, data tests), Airflow orchestration and Python, with automated tests and CI
+- **Geospatial data**: satellite imagery (Sentinel-2), vegetation index (NDVI), pixel classification and change tracking over time
+- **Cloud data platforms**: Snowflake, BigQuery, MotherDuck
 
 ## Featured projects
 
@@ -31,9 +33,11 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 
 ## Mes domaines
 
-- **Entrepôts de données** : architecture en médaillon (bronze / silver / gold), modélisation dimensionnelle de Kimball
-- **Rapports** : Power BI pour la gestion de portefeuille, le suivi des risques, le suivi des offres (bids) et la valeur acquise
-- **Pipelines de données** : dbt, Airflow et Python, avec tests automatisés et intégration continue
+- **Entrepôts de données** : architecture en médaillon (bronze / silver / gold), modélisation dimensionnelle (schéma en étoile)
+- **Rapports** : Power BI pour la gestion de portefeuille de projet et l'analyse de performance de ventes
+- **Pipelines de données** : dbt (modèles incrémentaux, tests de données), orchestration avec Airflow et Python, avec tests automatisés et intégration continue
+- **Données géospatiales** : images satellite (Sentinel-2), indice de végétation (NDVI), classification des pixels et suivi de l'évolution dans le temps
+- **Plateformes de données dans le cloud** : Snowflake, BigQuery, MotherDuck
 
 ## Projets à la une
 
