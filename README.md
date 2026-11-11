@@ -18,7 +18,7 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 
 ## Tools
 
-SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · Docker · GitHub Actions
+SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · GCS · BigQuery · Docker · GitHub Actions
 
 ## Contact
 
@@ -44,7 +44,7 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 
 ## Outils
 
-SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · Docker · GitHub Actions
+SQL Server · T-SQL · SSIS · Power BI · DAX · Python · dbt · Airflow · Snowflake · MotherDuck · GCS · BigQuery · Docker · GitHub Actions
 
 ## Contact
 
