@@ -7,14 +7,12 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 - **Data warehousing**: medallion architecture (bronze / silver / gold), dimensional modeling (star schema)
 - **Reporting**: Power BI for project portfolio management and sales performance analysis
 - **Data pipelines**: dbt (incremental models, data tests), Airflow orchestration and Python, with automated tests and CI
-- **Geospatial data**: satellite imagery (Sentinel-2), vegetation index (NDVI), pixel classification and change tracking over time
 - **Cloud data platforms**: Snowflake, BigQuery, MotherDuck
 
 ## Featured projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [vegetation-monitoring-auto](https://github.com/billobah/vegetation-monitoring-auto) | Computes the NDVI vegetation index from Sentinel-2 satellite images, classifies each pixel and tracks change over time | Python, dbt, Airflow, Power BI |
 | [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 dbt models with incremental fact tables and 33 data tests | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | Daily Airflow DAG that refreshes the dbt models | Airflow, Docker, dbt |
 | [northwave-dwh](https://github.com/billobah/northwave-dwh) | Star-schema data warehouse for a fictional retailer (work in progress) | MotherDuck, DuckDB, SQL |
@@ -36,14 +34,12 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 - **Entrepôts de données** : architecture en médaillon (bronze / silver / gold), modélisation dimensionnelle (schéma en étoile)
 - **Rapports** : Power BI pour la gestion de portefeuille de projet et l'analyse de performance de ventes
 - **Pipelines de données** : dbt (modèles incrémentaux, tests de données), orchestration avec Airflow et Python, avec tests automatisés et intégration continue
-- **Données géospatiales** : images satellite (Sentinel-2), indice de végétation (NDVI), classification des pixels et suivi de l'évolution dans le temps
 - **Plateformes de données dans le cloud** : Snowflake, BigQuery, MotherDuck
 
 ## Projets à la une
 
 | Projet | Ce qu'il fait | Outils |
 |---|---|---|
-| [vegetation-monitoring-auto](https://github.com/billobah/vegetation-monitoring-auto) | Calcule l'indice de végétation NDVI à partir d'images satellite Sentinel-2, classe chaque pixel et suit l'évolution dans le temps | Python, dbt, Airflow, Power BI |
 | [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 modèles dbt avec tables de faits incrémentales et 33 tests de données | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | DAG Airflow quotidien qui met à jour les modèles dbt | Airflow, Docker, dbt |
 | [northwave-dwh](https://github.com/billobah/northwave-dwh) | Entrepôt de données en étoile pour un détaillant fictif (en cours) | MotherDuck, DuckDB, SQL |
