@@ -12,7 +12,6 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 
 | Project | What it does | Stack |
 |---|---|---|
-| [supermarket-promo-lab](https://github.com/billobah/supermarket-promo-lab) | Pipeline from raw supermarket sales to a Power BI report, refreshed daily and checked on every change (22 dbt models, 185 tests) | GCS, BigQuery, dbt, Airflow, GitHub Actions, Power BI |
 | [vegetation-monitoring-auto](https://github.com/billobah/vegetation-monitoring-auto) | Computes the NDVI vegetation index from Sentinel-2 satellite images, classifies each pixel and tracks change over time | Python, dbt, Airflow, Power BI |
 | [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 dbt models with incremental fact tables and 33 data tests | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | Daily Airflow DAG that refreshes the dbt models | Airflow, Docker, dbt |
@@ -40,7 +39,6 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 
 | Projet | Ce qu'il fait | Outils |
 |---|---|---|
-| [supermarket-promo-lab](https://github.com/billobah/supermarket-promo-lab) | Pipeline qui transforme les ventes brutes d'un supermarché en rapport Power BI, actualisé chaque jour et contrôlé à chaque modification (22 modèles dbt, 185 tests) | GCS, BigQuery, dbt, Airflow, GitHub Actions, Power BI |
 | [vegetation-monitoring-auto](https://github.com/billobah/vegetation-monitoring-auto) | Calcule l'indice de végétation NDVI à partir d'images satellite Sentinel-2, classe chaque pixel et suit l'évolution dans le temps | Python, dbt, Airflow, Power BI |
 | [tasty-bytes-dbt-snowflake](https://github.com/billobah/tasty-bytes-dbt-snowflake) | 12 modèles dbt avec tables de faits incrémentales et 33 tests de données | dbt, Snowflake |
 | [tasty-bytes-airflow](https://github.com/billobah/tasty-bytes-airflow) | DAG Airflow quotidien qui met à jour les modèles dbt | Airflow, Docker, dbt |
