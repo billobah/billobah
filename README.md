@@ -7,7 +7,7 @@ Business Analyst and data professional. I design SQL Server data warehouses, bui
 - **Data warehousing**: medallion architecture (bronze / silver / gold), dimensional modeling (star schema)
 - **Reporting**: Power BI for project portfolio management and sales performance analysis
 - **Data pipelines**: dbt (incremental models, data tests), Airflow orchestration and Python, with automated tests and CI
-- **Cloud data platforms**: Snowflake, MotherDuck
+- **Cloud data platforms**: Snowflake, MotherDuck, GCS and BigQuery
 
 ## Featured projects
 
@@ -33,7 +33,7 @@ Business Analyst et spécialiste des données. Je conçois des entrepôts de don
 - **Entrepôts de données** : architecture en médaillon (bronze / silver / gold), modélisation dimensionnelle (schéma en étoile)
 - **Rapports** : Power BI pour la gestion de portefeuille de projet et l'analyse de performance de ventes
 - **Pipelines de données** : dbt (modèles incrémentaux, tests de données), orchestration avec Airflow et Python, avec tests automatisés et intégration continue
-- **Plateformes de données dans le cloud** : Snowflake, MotherDuck
+- **Plateformes de données dans le cloud** : Snowflake, MotherDuck, GCS et BigQuery
 
 ## Projets à la une
 
